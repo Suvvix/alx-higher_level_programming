@@ -1,5 +1,3 @@
-102-magic_calculation.py
-
 #!/usr/bin/python3
 
 
